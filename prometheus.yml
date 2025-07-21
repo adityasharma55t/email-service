@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: 'email-service'
+    static_configs:
+      - targets: ['email-service-1:3000', 'email-service-2:3000']
