@@ -1,7 +1,3 @@
-Here’s a complete and professional `README.md` for your **NestJS Email Notification Microservice** with Docker, Prometheus, Grafana, and NGINX-based load balancing:
-
----
-
 # 📧 Email Notification Microservice
 
 A horizontally scalable **NestJS microservice** that handles email notifications with support for:
@@ -162,5 +158,3 @@ MAILGUN_API_KEY=yyy
 MIT License. See `LICENSE` file.
 
 ---
-
-Would you like me to generate a sample Grafana dashboard JSON or `.env.example` next?
